@@ -1,0 +1,503 @@
+scaffold1_len797777_cov23	1290	-645	2276	3203	3274	-2296	-1914	-3307	1408	-2802	-2230	-134	-2111	-241	112	-2994	-1577	-1529	988	-1746	23	1928	308	-69	195	-169	1993	122	123	1064	-1958	2241	2689	-299	-536	1142	535	1170	-435	-1114	-1413	524	3292	-2168	-3053	-1913	-1866	-2852	-35	-2851	-1989	765	1167	2455	-1930	-1893	-2930	-2184	-2508	-752	-1842	1898	3132	-1653	-3416	3381	3197	292	-2144	-2003	-2666	-1515	-1086	-888	-2498	2975	921	-1129	3311	2656	-2776	-2459	1283	-162	-3337	-2684	1723	846	3005	538	-2410	639	-504	-2338	1368	2841	-1113	1048	-3395	3226	1390	2291	187	2436	1504	713	1260	-1239	-2889	155	-3437	-3400	-1199	-1039	-2083	-3439	145	142	2524	-2248	-1061	-1675	-2385	2208	769	-1146	953	-690	1259	-45	-3109	-2583	-2706	-627	-2285	895	-532	3058	2033	-3264	-1281	-310	-274	-618	-1356	-2758	-850	-1646	-944	3110	-1022	-2349	-423	-731	-3378	-876	225	3405	-1756	-2032	-1132	-1971	347	-3051	1027	-1285	1533	-416	1201	-1203	-1205	-670	-3269	-801	-1068	170	3355	1972	658	877	3027	-1702	2693	1724	-88	792	-1342	-2348	-1695	2229	2334	2381	1734	494	3370	3371	3139	2114	-840	-2647	-1431	-3247	2927	-872	-2543	1939	33	2679	2273	-1212	1932	2630	-451	-2342	-1335	429	1026	-3150	-232	606	919	1337	-2050	1095	-1687	2246	-668	-1308	67	3022	-626	-1023	-3205	1948	2944	595	-1210	2482	-607	2548	2819	-256	-1081	1984	216	-1512	-1730	468	-3340	2823	1943	1696	2764	3276	-638	1261	2065	-748	-1130	-3419	-1739	-330	-664	-1921	3148	-2672	-2093	-3075	-3230	-1189	-586	-26	-2091	-147	97	-572	-2102	-1862	-2564	-1423	401	2117	-1988	428	1656	762	-315	-1726	-1725	411	2098	1093	-302	-1872	-277	114	-537	414	-727	-125	31	-2413	-383	3074	-2752	-2379	848	346	2800	-3270	1257	-289	1084	-813	581	-1747	746	-2759	-2648	-1237	-3228	154	1798	-511	3175	1550	3417	-1439	2383	-2743	103	-2307
+scaffold2_len1277152_cov23	1291	3382	-1171	-489	-2986	-3313	-1266	902	2901	2806	1377	3187	-2558	-875	-859	-905	-1611	3393	-1589	989	1316	-1478	-3119	-1925	-1070	-3177	-669	-3373	-2591	1147	-2925	-16	-2081	-2860	-2444	-156	-3390	1357	-2488	2613	1832	2057	-3231	1899	1852	1929	290	333	-3189	-2053	-1144	-1538	-2468	-1837	-420	-1823	-552	-2868	1104	2058	-2712	2694	133	2315	-934	-838	-1830	-2119	-2500	-462	-3250	-1660	1154	-2079	-1719	1784	43	2879	-3052	-1168	-2516	1603	2151	-541	-447	1124	3029	1384	-825	-2492	1437	-2308	-350	1	1141	2569	2115	1241	3278	1835	1160	3380	2662	-724	-177	-3341	-520	-490	-286	-893	2382	2699	-1672	-774	-1524	-1071	782	300	1956	-2085	-3430	-991	-2649	-2623	-2233	2897	-2999	1305	376	-3217	602	-3428	-845	2088	1841	-1268	-1292	3087	1963	3277	2850	-3256	-2425	-2219	2283	-1496	-1010	1162	702	-1385	-974	-2873	-3071	2859	652	-1906	-1183	-2891	2931	-1098	-3322	-28	-747	-230	-460	-3135	-1353	615	-179	-3126	2576	-2063	1330	-1915	-95	3141	2973	-3408	-870	-1955	-2275	-1537	-1597	787	-2417	-821	1875	-1942	926	-533	2485	-1122	-410	650	-2932	3195	1194	-3383	-2127	1567	-2799	-1386	-1997	-1195	1903	37	-136	1521	1320	-2680	-632	-1334	1742	-1779	-2021	-1773	1483	3328	-2642	-529	2239	2661	351	-2025	-1680	1780	175	-2719	366	1623	-531	-2517	-1565	-1782	1783	633	-2486	-1502	-3098	214	1373	2300	-430	-2359	-2363	1374	-3107	148	-3026	-1944	-2604	3201	554	-2097	-432	3091	2393	-427	-1294	1196	2926	-878	-1658	-219	-2749	2129	965	-3144	-2893	-1340	-3171	1024	-2189	3011	-1233	-2463	2727	-2046	-665	-2390	-2882	798	1379	1735	-473	-2909	-2213	776	1920	2445	-181	2881	-2429	-3188	1838	1161	1116	2900	-29	-2043	273	-2867	1575	977	1200	-2589	1369	-2207	-605	-1177	-3375	3220	1766	-201	316	2141	2987	2785	2985	2772	-1888	-1370	2921	3342	247	-1616	-1505	-2071	-2438	-3327	-1909	956	-866	3190	2408	-2929	797	1391	3396	82	-463	-2487	-2157	-235	3003	-2272	-3295	100	-1946	1192	-2774	-1771	3339	2673	-1591	131	-3059	2777	-2215	-1770	-2618	-2905	3363	-2005	1155	1138	929	3092	1096	2105	1480	-1887	-3199	-2305	-3252	-1063	281	3233	-1182	1406	-1960	44	-379	-692	-1128	-326	515	-1493	2570	271	-1085	680	-2770	-1941	2082	-1620	2592	-3251	3090	1383	1813	-3174	-298	-3172	-2813	-2660	1317	-3072	3143	799	-137	-7	-1179	-847	2964	-2223	2596	-1005	-1458	760	2341	2367	3088	1998	-3282	-3257	2356	1388	661	1284	1765	-1216	1643	2182	1412	-968	-3014	243	-146	-3023	-406	-2826	2433	2336	2192	1905	-198	1083	928	1684	-3181	-2149	2602	-1657	-1455	2833	2895	1935	809	1487	-141	1534	-2412	-2170	3204	562	2226	2318	1632	-1341	-2288	3136	3336	2465	3262	-1246	53	2718	-338	-1926	-1889	-2599	1481	2218	2762	-3424	-699	1117	3362	2499	-158	-1075	239	624	2843	-1042	-1302	-395	3076	-2607	-2724	-2934	-2347	-1473	-105	2087	-3241	3285	-631	1232	-2533	2287	-1145	2396
+scaffold3_len618644_cov24	2615	121	-1231	589	-763	-1936	2123	2726	-2016	1344	1555	1763	-2261	2048	-3012	2301	1454	2156	2378	2376	1561	2116	2683	1318	2761	127	-1387	-1691	2898	-2625	-3434	-1426	1670	2252	-1165	-453	-822	1825	2086	-500	-1279	823	2815	-3046	1853	-2392	835	954	1358	-339	-176	1219	6	784	-441	1689	-2686	-1817	-2854	3180	2531	-1441	1819	-1648	349	-19	-1522	-767	2120	-396	-1911	-577	2415	2391	-340	2501	2372	2373	-314	-475	708	2	1904	-1197	-373	2370	436	-11	-2467	2018	-1964	-4	1562	-659	-2258	2747	3124	2557	3149	-931	-2549	-2172	2202	-2575	-2728	-1594	2675	-543	-1814	2173	610	-3089	-2692	1949	2748	2979	3015	3351	820	-2019	2038	-2702	516	2542	262	1333	-1649	-1716	1447	-2751	1953	-1545	-518	-854	1273	3420	3418	-1255	2322	476	446	-2958	-1490	-1336	2036	-773	2146	1604	-1466	608	2768	234	-1655	-107	-1787	3113	3062	116	3239	3033	-871	-2681	1706	-263	-744	3338	1190	718	-1683	-2544	-2869	-2608	-751	959	1198	563	1590	2603	-2062	1924	2775	-1980	1372	2688	-976	771	2541	2092	2671	662	331	-1731	2443	-2084	2027	70	2977	2426	-409	-2890	1465	1586	588	2720	1615	-86	-2812	3409	2644	3019	412	1678	-209	1580	-2597	-3106	993	-2045	-2472	1854	749	2240	1710	74	3056	719	556	2562
+scaffold4_len106445_cov22	-756	1429	-1445	816	2282	-2080	2556	-794	1307	2064	2340	-2955	946	-1794	3	3317	-3391	-3167	-3360	2510	215	-62	2676	-3246	184	1326	592	879	-3159	2847	549	-1621	2014	-2113	-1469	655	2430	-2632	2846	-2631	507	255	-629	-58	-973	-72	-342	-2746
+scaffold5_len104_cov9_single	10
+scaffold6_len3430_cov21	2677	1688	-92	15	2678	-869	-3266
+scaffold7_len862583_cov23	2553	1685	1952	2416	817	510	-2481	-737	449	2190	32	3010	-568	3114	-1627	2962	469	2311	-720	1633	3240	1583	165	1754	-2169	434	-3152	455	566	-1588	197	-1435	1446	2598	1569	-1267	17	1570	2993	2840	1879	-1587	368	1654	3350	1543	-1157	2077	-1631	-3129	2961	703	439	-1736	2449	-1614	1676	110	1831	-3347	-1767	304	3082	886	593	1484	2461	-1812	-207	-2619	-501	-1271	1193	1912	-288	-78	-1548	841	-2286	849	1400	-679	1987	1191	-1957	2791	-138	2203	-1801	808	-3002	3368	525	1824	96	2247	-1286	3326	3293	-448	2494	2594	-2181	-700	1410	352	2411	75	609	1123	-3243	1150	259	-2253	930	1551	580	-2918	-2691	3227	-152	-1973	2161	372	1450	2737	-2204	1613	-1641	-712	-397	-620	2716	-3427	2180	-1877	-522	-1019	-689	-1348	393	1105	-779	1547	948	-2717	-2216	-1253	-203	22	1535	2590	2502	-2256	-456	-1012	3038	696	398	-3346	832	-1248	-1681	-2404	-2351	1967	-1405	-2914	200	99	2545	253	2451	-370	-1280	-1800	-565	2466	-284	-503	-1361	964	863	-1082	-2754	1269	-2555	-2196	-2896	3008	-39	-194	-1820	-855	2012	-1938	-381	526	3365	-2108	-502	-1552	440	2388	-3354	-2861	1884	-2568	-3025	-1296	-1703	174	1153	1035	120	-1420	2574	-2006	1103	2457	-1868	1902	-1753	-1806	1698	-1328	734	199	1240	1043	1238	-329	-3034	-465	-1679	851	3221	-2137	-2698	-3237	-2950	-2191	1345	-2763	-1940	405	1366	1376	2969	-2166	-2150	408	-935	2103	66	943	306	-521	-2735	1156	-1166	1297	-836	-1222	640	-2437	3045	2244	417	2566	-2875	1249	-2842	-2972	-1759	-2232	3284	1750	1159	2559	-2294	-1861	1900	-418	343	-963	91	-2292	-2242	-236	754	-1091	3407	802	-1919	2268	-279	-421	-557	-3179	-1994	-2609	-363	1126	-1021	-2567	-391	-2160	2667	-1539	-386	-3404	1258	3057	2904	-1722	-59	-433	-697	-2593	431	-1424	-612	-936	-387	-2654	-1622	2971	-597	313	3260	2639	3297	2821	-2442	3206	3048	40	-3245	601	-3359	2350	2243	1576	-1263	-2478	1121	3236	2664	1220	-654	-1748	1169	2274	1652	2773	2297	2264	-157	-2130	-2409	992	1037	-3244	1148	-1276	3294	-353	1180	-990	-2217	-1127
+scaffold8_len223_cov15_single	24
+scaffold9_len137_cov35_single	27
+scaffold10_len120_cov16_single	38
+scaffold11_len997_cov19	46	-653	3414
+scaffold12_len139_cov13_single	57
+scaffold13_len940_cov35	2133	862
+scaffold14_len1120_cov41	3054	2880	83
+scaffold15_len140_cov31_single	84
+scaffold16_len155_cov13_single	85
+scaffold17_len116_cov10_single	98
+scaffold18_len124_cov22_single	101
+scaffold19_len105_cov9_single	102
+scaffold20_len3071_cov22	108	1077
+scaffold21_len2494_cov23_single	109
+scaffold22_len123_cov10_single	124
+scaffold23_len1499_cov20	128	2783
+scaffold24_len1847_cov22	129	2513
+scaffold25_len129_cov13_single	130
+scaffold26_len1249_cov13	-1970	132	-389	-3043
+scaffold27_len122_cov10_single	143
+scaffold28_len132_cov9_single	159
+scaffold29_len101_cov9_single	167
+scaffold30_len443_cov35	168	892
+scaffold31_len101_cov10_single	173
+scaffold32_len126_cov15_single	180
+scaffold33_len108_cov10_single	188
+scaffold34_len106_cov16_single	193
+scaffold35_len122_cov12_single	202
+scaffold36_len1100_cov21_single	206
+scaffold37_len864_cov36	3223	208	865
+scaffold38_len108_cov31_single	210
+scaffold39_len131_cov13_single	223
+scaffold40_len148_cov10_single	229
+scaffold41_len2017_cov15	231	578	-796	2475
+scaffold42_len132_cov31_single	237
+scaffold43_len3184_cov18	2857	-2458	2327	2820	246
+scaffold44_len1347_cov18_single	250
+scaffold45_len109_cov9_single	265
+scaffold46_len831_cov15	-341	266
+scaffold47_len1318_cov22_single	267
+scaffold48_len153_cov13_single	275
+scaffold49_len150_cov15_single	276
+scaffold50_len370_cov25	278	2448
+scaffold51_len421_cov13	291	2454
+scaffold52_len2482_cov26_single	294
+scaffold53_len3183_cov17	2915	2450	505	297	1540	-1776
+scaffold54_len3039_cov18	1531	-1394	-903	312
+scaffold55_len127_cov10_single	317
+scaffold56_len2638_cov26	-651	320
+scaffold57_len113_cov22_single	328
+scaffold58_len131_cov29_single	345
+scaffold59_len238_cov22_single	357
+scaffold60_len2335_cov22_single	358
+scaffold61_len3462_cov23	359	1752	2406	-378
+scaffold62_len495_cov31_single	2937
+scaffold63_len2288_cov24	362	3394
+scaffold64_len129_cov12_single	364
+scaffold65_len134_cov13_single	365
+scaffold66_len119_cov12_single	385
+scaffold67_len144_cov19_single	403
+scaffold68_len121_cov10_single	404
+scaffold69_len137_cov13_single	422
+scaffold70_len101_cov10_single	424
+scaffold71_len117_cov10_single	426
+scaffold72_len117_cov13_single	444
+scaffold73_len3098_cov35	2135	452
+scaffold74_len136_cov10_single	454
+scaffold75_len1438_cov19	-2637	-1313	457
+scaffold76_len477_cov19_single	470
+scaffold77_len151_cov15_single	477
+scaffold78_len101_cov9_single	478
+scaffold79_len1962_cov18	487	-3134	-1581
+scaffold80_len2753_cov18	738	499	-2042	759
+scaffold81_len156_cov29_single	506
+scaffold82_len105_cov28_single	514
+scaffold83_len1041_cov18_single	523
+scaffold84_len101_cov9_single	540
+scaffold85_len144_cov18_single	542
+scaffold86_len945_cov19	3042	1829	548
+scaffold87_len109_cov29_single	551
+scaffold88_len1465_cov38	1074	2878	717	558	2560
+scaffold89_len140_cov13_single	560
+scaffold90_len107_cov10_single	564
+scaffold91_len1534_cov14	1055	1663	1087	570
+scaffold92_len101_cov10_single	571
+scaffold93_len132_cov18_single	575
+scaffold94_len126_cov12_single	598
+scaffold95_len113_cov13_single	603
+scaffold96_len1996_cov21	-833	614	-2546
+scaffold97_len638_cov12	636	1617
+scaffold98_len147_cov12_single	667
+scaffold99_len101_cov10_single	682
+scaffold100_len125_cov12_single	684
+scaffold101_len100_cov9_single	685
+scaffold102_len123_cov15_single	686
+scaffold103_len115_cov10_single	691
+scaffold104_len974_cov15_single	693
+scaffold105_len108_cov12_single	732
+scaffold106_len211_cov43_single	740
+scaffold107_len123_cov12_single	757
+scaffold108_len137_cov13_single	764
+scaffold109_len159_cov16_single	766
+scaffold110_len1242_cov21_single	770
+scaffold111_len119_cov13_single	783
+scaffold112_len4282_cov20	785	-3258	1901	-1890
+scaffold113_len121_cov13_single	791
+scaffold114_len111_cov10_single	793
+scaffold115_len120_cov37_single	795
+scaffold116_len114_cov34_single	805
+scaffold117_len592_cov12	1965	811
+scaffold118_len153_cov15_single	815
+scaffold119_len107_cov10_single	834
+scaffold120_len149_cov26_single	842
+scaffold121_len121_cov13_single	852
+scaffold122_len1939_cov19	867	2933	-3255
+scaffold123_len135_cov13_single	868
+scaffold124_len1582_cov15	-1076	873	3364
+scaffold125_len485_cov31_single	874
+scaffold126_len116_cov16_single	887
+scaffold127_len101_cov13_single	889
+scaffold128_len252_cov13_single	891
+scaffold129_len146_cov16_single	896
+scaffold130_len136_cov10_single	901
+scaffold131_len406_cov15_single	910
+scaffold132_len147_cov40_single	914
+scaffold133_len133_cov10_single	918
+scaffold134_len101_cov23_single	920
+scaffold135_len1002_cov33	3017	922
+scaffold136_len137_cov13_single	923
+scaffold137_len145_cov12_single	924
+scaffold138_len130_cov12_single	938
+scaffold139_len116_cov13_single	962
+scaffold140_len123_cov28_single	967
+scaffold141_len2035_cov15	-1459	-2004	2309	980	-2128
+scaffold142_len101_cov9_single	1001
+scaffold143_len645_cov13	1004	-1354
+scaffold144_len1827_cov20	1014	1089
+scaffold145_len145_cov13_single	1015
+scaffold146_len101_cov9_single	1016
+scaffold147_len123_cov12_single	1017
+scaffold148_len146_cov10_single	1031
+scaffold149_len126_cov10_single	1032
+scaffold150_len111_cov10_single	1033
+scaffold151_len134_cov13_single	1057
+scaffold152_len126_cov13_single	1059
+scaffold153_len4566_cov19	1738	2066	1069
+scaffold154_len118_cov12_single	1073
+scaffold155_len122_cov13_single	1079
+scaffold156_len125_cov13_single	1088
+scaffold157_len115_cov12_single	1090
+scaffold158_len383_cov11	2052	1108
+scaffold159_len117_cov10_single	1115
+scaffold160_len116_cov16_single	1120
+scaffold161_len124_cov12_single	1133
+scaffold162_len103_cov13_single	1137
+scaffold163_len183_cov16_single	1139
+scaffold164_len102_cov10_single	1158
+scaffold165_len987_cov15	1164	-2808	-3007
+scaffold166_len592_cov19_single	1181
+scaffold167_len113_cov10_single	1202
+scaffold168_len103_cov18_single	1227
+scaffold169_len127_cov13_single	1228
+scaffold170_len108_cov10_single	1229
+scaffold171_len643_cov21_single	1234
+scaffold172_len3350_cov23_single	1236
+scaffold173_len119_cov10_single	1243
+scaffold174_len1142_cov22_single	3234
+scaffold175_len635_cov19_single	2228
+scaffold176_len818_cov16_single	1254
+scaffold177_len128_cov13_single	1262
+scaffold178_len524_cov14	1432	1272
+scaffold179_len123_cov16_single	1274
+scaffold180_len647_cov14	1598	1275
+scaffold181_len117_cov9_single	1282
+scaffold182_len144_cov10_single	1287
+scaffold183_len122_cov16_single	1293
+scaffold184_len137_cov32_single	1295
+scaffold185_len562_cov14	1309	-3178
+scaffold186_len148_cov16_single	1310
+scaffold187_len124_cov13_single	1319
+scaffold188_len101_cov10_single	1331
+scaffold189_len120_cov16_single	1332
+scaffold190_len486_cov15_single	1351
+scaffold191_len119_cov12_single	1364
+scaffold192_len151_cov16_single	1367
+scaffold193_len139_cov12_single	1371
+scaffold194_len103_cov9_single	1375
+scaffold195_len108_cov9_single	1397
+scaffold196_len124_cov10_single	1409
+scaffold197_len103_cov9_single	1411
+scaffold198_len126_cov13_single	1416
+scaffold199_len136_cov16_single	1417
+scaffold200_len101_cov12_single	1419
+scaffold201_len102_cov10_single	1421
+scaffold202_len122_cov13_single	1427
+scaffold203_len151_cov12_single	1433
+scaffold204_len114_cov10_single	1438
+scaffold205_len317_cov18_single	1440
+scaffold206_len124_cov25_single	1444
+scaffold207_len126_cov12_single	1453
+scaffold208_len108_cov28_single	1460
+scaffold209_len114_cov10_single	1461
+scaffold210_len2184_cov20	2509	2956	1463
+scaffold211_len129_cov34_single	1470
+scaffold212_len120_cov28_single	1474
+scaffold213_len104_cov10_single	1492
+scaffold214_len142_cov10_single	1495
+scaffold215_len118_cov22_single	1499
+scaffold216_len189_cov25_single	1500
+scaffold217_len140_cov15_single	1501
+scaffold218_len153_cov15_single	1513
+scaffold219_len175_cov19_single	1525
+scaffold220_len107_cov16_single	1527
+scaffold221_len103_cov21_single	1542
+scaffold222_len154_cov35_single	1546
+scaffold223_len148_cov10_single	1563
+scaffold224_len120_cov26_single	1592
+scaffold225_len135_cov10_single	1600
+scaffold226_len105_cov9_single	1602
+scaffold227_len100_cov13_single	1605
+scaffold228_len1781_cov15	1607	-3349	3036	2653	1711
+scaffold229_len544_cov12_single	2358
+scaffold230_len144_cov10_single	1609
+scaffold231_len113_cov10_single	1638
+scaffold232_len140_cov32_single	1639
+scaffold233_len319_cov10_single	1642
+scaffold234_len129_cov38_single	1645
+scaffold235_len148_cov13_single	1650
+scaffold236_len129_cov12_single	1651
+scaffold237_len101_cov9_single	1677
+scaffold238_len696_cov13	1708	1701
+scaffold239_len120_cov45_single	1709
+scaffold240_len1658_cov18_single	1714
+scaffold241_len143_cov9_single	1717
+scaffold242_len138_cov16_single	1727
+scaffold243_len129_cov28_single	1733
+scaffold244_len153_cov16_single	1737
+scaffold245_len116_cov9_single	1740
+scaffold246_len101_cov10_single	1743
+scaffold247_len151_cov13_single	1755
+scaffold248_len101_cov9_single	1757
+scaffold249_len155_cov16_single	1762
+scaffold250_len143_cov12_single	1768
+scaffold251_len115_cov13_single	1788
+scaffold252_len131_cov13_single	1792
+scaffold253_len194_cov22_single	1799
+scaffold254_len142_cov15_single	1808
+scaffold255_len124_cov15_single	1811
+scaffold256_len112_cov25_single	1822
+scaffold257_len155_cov13_single	1833
+scaffold258_len121_cov15_single	1836
+scaffold259_len140_cov13_single	1848
+scaffold260_len101_cov13_single	1855
+scaffold261_len129_cov12_single	1858
+scaffold262_len122_cov12_single	1873
+scaffold263_len121_cov10_single	1878
+scaffold264_len108_cov12_single	1886
+scaffold265_len144_cov12_single	1894
+scaffold266_len1896_cov21	1916	-3009
+scaffold267_len108_cov12_single	1917
+scaffold268_len145_cov18_single	1931
+scaffold269_len189_cov10_single	1950
+scaffold270_len535_cov37_single	1954
+scaffold271_len119_cov29_single	1961
+scaffold272_len119_cov13_single	1975
+scaffold273_len112_cov12_single	1976
+scaffold274_len703_cov25_single	1978
+scaffold275_len155_cov10_single	2002
+scaffold276_len108_cov10_single	2026
+scaffold277_len119_cov9_single	2029
+scaffold278_len122_cov15_single	2030
+scaffold279_len128_cov10_single	2035
+scaffold280_len990_cov16	2051	-2321
+scaffold281_len124_cov12_single	2054
+scaffold282_len111_cov13_single	2059
+scaffold283_len142_cov12_single	2060
+scaffold284_len126_cov12_single	2070
+scaffold285_len122_cov19_single	2094
+scaffold286_len122_cov9_single	2101
+scaffold287_len147_cov13_single	2107
+scaffold288_len135_cov13_single	2109
+scaffold289_len1493_cov15	2121	2650
+scaffold290_len178_cov23_single	2124
+scaffold291_len101_cov12_single	2126
+scaffold292_len111_cov12_single	2134
+scaffold293_len150_cov43_single	2136
+scaffold294_len526_cov18_single	2140
+scaffold295_len137_cov18_single	2155
+scaffold296_len669_cov12	2162	2801
+scaffold297_len153_cov12_single	2167
+scaffold298_len1515_cov17	2175	2205
+scaffold299_len111_cov12_single	2178
+scaffold300_len141_cov15_single	2179
+scaffold301_len103_cov9_single	2199
+scaffold302_len135_cov35_single	2206
+scaffold303_len111_cov9_single	2214
+scaffold304_len102_cov12_single	2234
+scaffold305_len1118_cov18	2263	2504
+scaffold306_len119_cov12_single	2265
+scaffold307_len726_cov12_single	2280
+scaffold308_len125_cov18_single	2290
+scaffold309_len103_cov12_single	2293
+scaffold310_len2807_cov21	2295	2828	-2674
+scaffold311_len134_cov15_single	2298
+scaffold312_len139_cov12_single	2299
+scaffold313_len131_cov19_single	2316
+scaffold314_len105_cov10_single	2328
+scaffold315_len139_cov9_single	2357
+scaffold316_len144_cov13_single	2360
+scaffold317_len130_cov12_single	2364
+scaffold318_len113_cov12_single	2366
+scaffold319_len152_cov21_single	2374
+scaffold320_len146_cov12_single	2380
+scaffold321_len239_cov18_single	2384
+scaffold322_len130_cov10_single	2395
+scaffold323_len140_cov18_single	2424
+scaffold324_len114_cov9_single	2435
+scaffold325_len206_cov12_single	2441
+scaffold326_len128_cov45_single	2462
+scaffold327_len113_cov40_single	2469
+scaffold328_len137_cov45_single	2476
+scaffold329_len105_cov15_single	2489
+scaffold330_len148_cov16_single	2490
+scaffold331_len135_cov13_single	2495
+scaffold332_len141_cov12_single	2497
+scaffold333_len442_cov13_single	2505
+scaffold334_len140_cov12_single	2523
+scaffold335_len144_cov13_single	2525
+scaffold336_len177_cov25_single	2534
+scaffold337_len125_cov13_single	2537
+scaffold338_len155_cov13_single	2561
+scaffold339_len104_cov26_single	2573
+scaffold340_len101_cov43_single	2578
+scaffold341_len138_cov15_single	2585
+scaffold342_len115_cov10_single	2600
+scaffold343_len102_cov19_single	2601
+scaffold344_len123_cov10_single	2612
+scaffold345_len111_cov16_single	2614
+scaffold346_len123_cov10_single	2622
+scaffold347_len159_cov12_single	2627
+scaffold348_len151_cov16_single	2628
+scaffold349_len120_cov22_single	2638
+scaffold350_len101_cov9_single	2640
+scaffold351_len145_cov12_single	2643
+scaffold352_len144_cov13_single	2652
+scaffold353_len878_cov13_single	2655
+scaffold354_len125_cov12_single	2669
+scaffold355_len120_cov9_single	2682
+scaffold356_len1590_cov14	2685	3049	2779
+scaffold357_len141_cov12_single	2687
+scaffold358_len105_cov16_single	2690
+scaffold359_len117_cov7_single	2700
+scaffold360_len108_cov29_single	2705
+scaffold361_len815_cov22_single	2722
+scaffold362_len107_cov9_single	2734
+scaffold363_len141_cov21_single	2736
+scaffold364_len148_cov10_single	2739
+scaffold365_len109_cov13_single	2741
+scaffold366_len109_cov9_single	2744
+scaffold367_len139_cov13_single	2750
+scaffold368_len402_cov13_single	2753
+scaffold369_len109_cov45_single	2765
+scaffold370_len152_cov10_single	2771
+scaffold371_len107_cov9_single	2778
+scaffold372_len1093_cov15	3133	2784
+scaffold373_len103_cov12_single	2786
+scaffold374_len103_cov10_single	2790
+scaffold375_len132_cov16_single	2795
+scaffold376_len110_cov12_single	2811
+scaffold377_len119_cov10_single	2814
+scaffold378_len201_cov10_single	2827
+scaffold379_len113_cov10_single	2830
+scaffold380_len141_cov34_single	2834
+scaffold381_len108_cov9_single	2837
+scaffold382_len101_cov9_single	2839
+scaffold383_len252_cov18_single	2853
+scaffold384_len105_cov16_single	2883
+scaffold385_len111_cov13_single	2888
+scaffold386_len150_cov13_single	2903
+scaffold387_len108_cov28_single	2910
+scaffold388_len2554_cov19_single	2912
+scaffold389_len105_cov10_single	2928
+scaffold390_len109_cov29_single	2938
+scaffold391_len108_cov26_single	2957
+scaffold392_len120_cov16_single	2959
+scaffold393_len113_cov10_single	2960
+scaffold394_len104_cov10_single	2978
+scaffold395_len148_cov15_single	2982
+scaffold396_len131_cov12_single	2983
+scaffold397_len130_cov29_single	2989
+scaffold398_len134_cov10_single	2991
+scaffold399_len130_cov28_single	2992
+scaffold400_len145_cov10_single	2996
+scaffold401_len139_cov9_single	3004
+scaffold402_len130_cov31_single	3016
+scaffold403_len101_cov19_single	3018
+scaffold404_len133_cov15_single	3044
+scaffold405_len154_cov13_single	3064
+scaffold406_len105_cov35_single	3065
+scaffold407_len2154_cov19_single	3067
+scaffold408_len151_cov13_single	3069
+scaffold409_len115_cov12_single	3084
+scaffold410_len129_cov13_single	3093
+scaffold411_len151_cov13_single	3094
+scaffold412_len152_cov10_single	3095
+scaffold413_len104_cov9_single	3118
+scaffold414_len115_cov13_single	3130
+scaffold415_len104_cov15_single	3131
+scaffold416_len103_cov12_single	3138
+scaffold417_len137_cov18_single	3151
+scaffold418_len142_cov13_single	3153
+scaffold419_len216_cov44_single	3156
+scaffold420_len101_cov9_single	3168
+scaffold421_len146_cov12_single	3169
+scaffold422_len108_cov10_single	3170
+scaffold423_len100_cov18_single	3208
+scaffold424_len105_cov12_single	3210
+scaffold425_len120_cov12_single	3216
+scaffold426_len152_cov12_single	3225
+scaffold427_len112_cov10_single	3229
+scaffold428_len501_cov21_single	3235
+scaffold429_len101_cov9_single	3242
+scaffold430_len1249_cov23_single	3261
+scaffold431_len128_cov21_single	3279
+scaffold432_len102_cov9_single	3283
+scaffold433_len137_cov13_single	3286
+scaffold434_len106_cov9_single	3289
+scaffold435_len120_cov15_single	3300
+scaffold436_len151_cov15_single	3303
+scaffold437_len147_cov10_single	3309
+scaffold438_len123_cov18_single	3310
+scaffold439_len104_cov12_single	3323
+scaffold440_len104_cov13_single	3333
+scaffold441_len102_cov9_single	3344
+scaffold442_len123_cov15_single	3345
+scaffold443_len108_cov9_single	3356
+scaffold444_len142_cov13_single	3366
+scaffold445_len242_cov13_single	3372
+scaffold446_len129_cov13_single	3379
+scaffold447_len580_cov16_single	3384
+scaffold448_len108_cov9_single	3406
+scaffold449_len147_cov15_single	3410
+scaffold450_len294_cov18_single	3421
+scaffold451_len145_cov13_single	3422
+scaffold452_len118_cov12_single	3444
+scaffold453_len415_cov11	2118	544
+scaffold454_len9144_cov22	-1876	-2227	-657	583	2822	2998
+scaffold455_len161_cov29_single	844
+scaffold456_len1255_cov45_single	1131
+scaffold457_len174_cov48_single	1549
+scaffold458_len147_cov104_single	20
+scaffold459_len141_cov169_single	21
+scaffold460_len122_cov47_single	94
+scaffold461_len123_cov148_single	280
+scaffold462_len451_cov85_single	321
+scaffold463_len161_cov123_single	323
+scaffold464_len689_cov51_single	550
+scaffold465_len171_cov85_single	641
+scaffold466_len192_cov51_single	894
+scaffold467_len192_cov48_single	898
+scaffold468_len123_cov103_single	947
+scaffold469_len156_cov186_single	1038
+scaffold470_len104_cov88_single	1325
+scaffold471_len108_cov73_single	1327
+scaffold472_len123_cov98_single	1392
+scaffold473_len183_cov189_single	1451
+scaffold474_len183_cov101_single	1452
+scaffold475_len121_cov70_single	1468
+scaffold476_len105_cov54_single	1674
+scaffold477_len198_cov75_single	1721
+scaffold478_len196_cov85_single	1816
+scaffold479_len221_cov62_single	1907
+scaffold480_len119_cov70_single	1959
+scaffold481_len159_cov76_single	1966
+scaffold482_len223_cov133_single	1999
+scaffold483_len241_cov126_single	2000
+scaffold484_len1483_cov60_single	2009
+scaffold485_len107_cov129_single	2013
+scaffold486_len112_cov47_single	2020
+scaffold487_len1899_cov54_single	2061
+scaffold488_len136_cov89_single	2090
+scaffold489_len150_cov47_single	2131
+scaffold490_len108_cov70_single	2266
+scaffold491_len126_cov111_single	2278
+scaffold492_len105_cov95_single	2284
+scaffold493_len110_cov81_single	2329
+scaffold494_len186_cov113_single	2446
+scaffold495_len106_cov53_single	2471
+scaffold496_len1135_cov53_single	2580
+scaffold497_len104_cov161_single	2635
+scaffold498_len200_cov139_single	2636
+scaffold499_len307_cov57_single	2782
+scaffold500_len273_cov94_single	2849
+scaffold501_len207_cov78_single	2862
+scaffold502_len114_cov70_single	2942
+scaffold503_len105_cov47_single	3063
