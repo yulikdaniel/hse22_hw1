@@ -73,13 +73,13 @@ rm oil_R1_sample.fastq oil_R2_sample.fastq
 rm oil_R1_sample.fastq oil_R2_sample.fastq oilMP_S4_L001_R1_001_sample.fastq oilMP_S4_L001_R2_001_sample.fastq
 ```
 ```
-platanus assemble -f oil_R1_sample.fastq.trimmed  oil_R2_sample.fastq.trimmed -o files
+platanus assemble -f oil_R1_sample.fastq.trimmed  oil_R2_sample.fastq.trimmed -o small
 ```
 ```
-platanus scaffold -c files_contig.fa -IP1 oil_R1_sample.fastq.trimmed oil_R2_sample.fastq.trimmed -OP2 oilMP_S4_L001_R1_001_sample.fastq.int_trimmed oilMP_S4_L001_R2_001_sample.fastq.int_trimmed -o files
+platanus scaffold -c files_contig.fa -IP1 oil_R1_sample.fastq.trimmed oil_R2_sample.fastq.trimmed -OP2 oilMP_S4_L001_R1_001_sample.fastq.int_trimmed oilMP_S4_L001_R2_001_sample.fastq.int_trimmed -o small
 ```
 ```
-platanus gap_close -c files_scaffold.fa -IP1 oil_R1_sample.fastq.trimmed oil_R2_sample.fastq.trimmed -OP2 oilMP_S4_L001_R1_001_sample.fastq.int_trimmed oilMP_S4_L001_R2_001_sample.fastq.int_trimmed -o files
+platanus gap_close -c files_scaffold.fa -IP1 oil_R1_sample.fastq.trimmed oil_R2_sample.fastq.trimmed -OP2 oilMP_S4_L001_R1_001_sample.fastq.int_trimmed oilMP_S4_L001_R2_001_sample.fastq.int_trimmed -o small
 ```
 ```
 rm *trimmed
